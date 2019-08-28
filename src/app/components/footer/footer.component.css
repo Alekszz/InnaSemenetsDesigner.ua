@@ -1,0 +1,72 @@
+.footer-default {
+    background-color: #869CAA;
+    height: 200px;
+    min-height: 1px;
+    display: block;
+    position: relative;
+    width: 100%;
+}
+a#logo {
+    background-image: url(/../assets/logo_faake.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: block;
+    width: 188px;
+    height: 188px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.kontakt-block, .logo-footer, .fast-acces {
+    width: 33%;  
+    position: relative;
+    min-height: 1px;
+    padding-left: 20px;
+    padding-right: 20px;
+    display: inline-block;
+    vertical-align: top;
+}
+h4 {
+    text-decoration: none;
+    font-size: 29px;
+    font-weight: 700px;
+    font-family: ZeferinoThree;
+    color: #BFD5E0;
+    line-height:1.41176471;
+    margin: 20px 0px 0px 0px;
+}
+hr {
+    margin: 0;
+    height: 3px;
+    background-color: #BFD5E0;
+    color: #BFD5E0;
+    border: none;
+    width: auto;
+}
+p {
+    text-decoration: none;
+    font-size: 12px;
+    color: #BFD5E0;
+    font-family: Georgia, serif;
+    white-space: pre-line;
+}
+.soc-ico-block {
+    margin-bottom: 6px;
+    text-align: left;
+    will-change: transform;
+}
+.social-icon {
+    width: 27px;
+    height: 27px;
+    background: url(/../assets/ico/social-items.svg) no-repeat;
+    background-position-x: 0%;
+    background-position-y: 0%;
+}/*icons working*/
+.fb-ico {
+    background-position: 13,5pt 13,5pt;
+}/*icons working*/
+
+.ico {
+    display: inline-block;
+    vertical-align: middle;
+    margin: 5px 6px 10px 0;
+}/*icons working*/
