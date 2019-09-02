@@ -1,6 +1,6 @@
 .footer-default {
-    background-color: #869CAA;
-    height: 200px;
+    background-color: #869CAA !important;
+    height: auto;
     min-height: 1px;
     display: block;
     position: relative;

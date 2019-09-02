@@ -37,6 +37,8 @@ html {
     padding-left: 10px;
     padding-right: 10px;
     width: 1020px;
+    position: relative;
+    height: auto;
 }
 .logo-block::before {
     content: " ";
